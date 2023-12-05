@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dan7376, Danko
 - 👀 I’m interested in C# primarly
-- 🌱 I’m currently learning C#, HTML, CSS, C++, JavaScript
+- 🌱 I’m currently learning C#, HTML, CSS, C++, JavaScript, php
 - 📫 How to reach me danko.oresic@gmail.com
 
 <!---
